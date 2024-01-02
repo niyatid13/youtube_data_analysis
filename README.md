@@ -11,3 +11,8 @@ This was a Data Engineering project wherein AWS services were used for the follo
 - The Quicksight Dashboard
   
 ![aws_quicksight_analysis](https://github.com/niyatid13/youtube_data_analysis/assets/88267162/e792e561-a4ab-40fb-bc36-df89d773d46a)
+
+- The architecture
+
+
+![architecture](https://github.com/niyatid13/youtube_data_analysis/assets/88267162/7ad59457-2387-49bd-a42f-5f4a9ca6362a)
